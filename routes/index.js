@@ -11,8 +11,8 @@ const errorHandling = require("../middleware/errorHandler");
 const CustomerController = require("../controllers/customerController");
 
 // login & register customers
-router.post("/login", CustomerController.login);
 router.post("/register", CustomerController.register);
+router.post("/login", CustomerController.login);
 router.get("/product", ProductController.readProduct);
 router.get("/product/:id", ProductController.readProductDetail);
 
