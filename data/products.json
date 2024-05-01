@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "name": "Galaxy S20",
+    "description": "The latest mobile phone with advanced features and sleek design.",
+    "image": "http://dummyimage.com/100x100.png/ff4444/ffffff",
+    "price": 271.29,
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "id": 2,
+    "name": "Nokia 9 PureView",
+    "description": "Enjoy entertainment on-the-go with this feature-packed mobile phone.",
+    "image": "http://dummyimage.com/100x100.png/cc0000/ffffff",
+    "price": 872.99,
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "id": 3,
+    "name": "Xiaomi Mi 10",
+    "description": "Capture memories in stunning detail with the camera of this mobile phone.",
+    "image": "http://dummyimage.com/100x100.png/ff4444/ffffff",
+    "price": 751.39,
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "id": 4,
+    "name": "Xiaomi Mi 10",
+    "description": "Stay organized and efficient with the help of this smart mobile phone.",
+    "image": "http://dummyimage.com/100x100.png/dddddd/000000",
+    "price": 1447.64,
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "id": 5,
+    "name": "BlackBerry Key2",
+    "description": "This mobile phone offers top-notch performance and stunning camera capabilities.",
+    "image": "http://dummyimage.com/100x100.png/ff4444/ffffff",
+    "price": 952.0,
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "id": 6,
+    "name": "OnePlus 8",
+    "description": "Enjoy entertainment on-the-go with this feature-packed mobile phone.",
+    "image": "http://dummyimage.com/100x100.png/ff4444/ffffff",
+    "price": 477.58,
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "id": 7,
+    "name": "Oppo Find X2",
+    "description": "Enjoy entertainment on-the-go with this feature-packed mobile phone.",
+    "image": "http://dummyimage.com/100x100.png/dddddd/000000",
+    "price": 619.81,
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "id": 8,
+    "name": "Huawei P40",
+    "description": "A powerful smartphone with a large display and long battery life.",
+    "image": "http://dummyimage.com/100x100.png/5fa2dd/ffffff",
+    "price": 1196.16,
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "id": 9,
+    "name": "BlackBerry Key2",
+    "description": "Stay organized and efficient with the help of this smart mobile phone.",
+    "image": "http://dummyimage.com/100x100.png/5fa2dd/ffffff",
+    "price": 1322.1,
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "id": 10,
+    "name": "Nokia 9 PureView",
+    "description": "A powerful smartphone with a large display and long battery life.",
+    "image": "http://dummyimage.com/100x100.png/cc0000/ffffff",
+    "price": 376.84,
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "id": 11,
+    "name": "Oppo Find X2",
+    "description": "A stylish and modern device with a user-friendly interface.",
+    "image": "http://dummyimage.com/100x100.png/5fa2dd/ffffff",
+    "price": 1452.6,
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "id": 12,
+    "name": "Xiaomi Mi 10",
+    "description": "Experience cutting-edge technology with this innovative mobile phone.",
+    "image": "http://dummyimage.com/100x100.png/dddddd/000000",
+    "price": 1381.01,
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "id": 13,
+    "name": "iPhone 11",
+    "description": "Stay connected and productive with this versatile mobile phone.",
+    "image": "http://dummyimage.com/100x100.png/5fa2dd/ffffff",
+    "price": 567.76,
+    "CategoryId": 2,
+    "AuthorId": 1
+  },
+  {
+    "id": 14,
+    "name": "Nokia 9 PureView",
+    "description": "Capture memories in stunning detail with the camera of this mobile phone.",
+    "image": "http://dummyimage.com/100x100.png/ff4444/ffffff",
+    "price": 223.59,
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "id": 15,
+    "name": "Xperia 1",
+    "description": "Stay organized and efficient with the help of this smart mobile phone.",
+    "image": "http://dummyimage.com/100x100.png/dddddd/000000",
+    "price": 1097.9,
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "id": 16,
+    "name": "Huawei P40",
+    "description": "Stay organized and efficient with the help of this smart mobile phone.",
+    "image": "http://dummyimage.com/100x100.png/cc0000/ffffff",
+    "price": 1089.56,
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "id": 17,
+    "name": "OnePlus 8",
+    "description": "A stylish and modern device with a user-friendly interface.",
+    "image": "http://dummyimage.com/100x100.png/ff4444/ffffff",
+    "price": 785.42,
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "id": 18,
+    "name": "Xperia 1",
+    "description": "A powerful smartphone with a large display and long battery life.",
+    "image": "http://dummyimage.com/100x100.png/ff4444/ffffff",
+    "price": 1398.28,
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "id": 19,
+    "name": "Xperia 1",
+    "description": "The latest mobile phone with advanced features and sleek design.",
+    "image": "http://dummyimage.com/100x100.png/ff4444/ffffff",
+    "price": 1260.49,
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "id": 20,
+    "name": "OnePlus 8",
+    "description": "Stay organized and efficient with the help of this smart mobile phone.",
+    "image": "http://dummyimage.com/100x100.png/5fa2dd/ffffff",
+    "price": 336.1,
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "id": 21,
+    "name": "ZTE Axon 11",
+    "description": "A stylish and modern device with a user-friendly interface.",
+    "image": "http://dummyimage.com/100x100.png/cc0000/ffffff",
+    "price": 505.29,
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "id": 22,
+    "name": "ZTE Axon 11",
+    "description": "A powerful smartphone with a large display and long battery life.",
+    "image": "http://dummyimage.com/100x100.png/5fa2dd/ffffff",
+    "price": 1252.53,
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "id": 23,
+    "name": "LG V60 ThinQ",
+    "description": "Get the ultimate mobile experience with this high-quality device.",
+    "image": "http://dummyimage.com/100x100.png/5fa2dd/ffffff",
+    "price": 748.82,
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "id": 24,
+    "name": "iPhone 11",
+    "description": "Experience cutting-edge technology with this innovative mobile phone.",
+    "image": "http://dummyimage.com/100x100.png/5fa2dd/ffffff",
+    "price": 1039.99,
+    "CategoryId": 2,
+    "AuthorId": 1
+  },
+  {
+    "id": 25,
+    "name": "ZTE Axon 11",
+    "description": "Capture memories in stunning detail with the camera of this mobile phone.",
+    "image": "http://dummyimage.com/100x100.png/5fa2dd/ffffff",
+    "price": 238.1,
+    "CategoryId": 1,
+    "AuthorId": 1
+  }
+]
