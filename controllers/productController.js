@@ -51,19 +51,19 @@ class productController {
         ]),
           (option.limit = 8);
       } else if (search) {
-        option.include = [
-          {
-            model: User,
-            attributes: ["userName"],
-          },
-          {
-            model: Category,
-            attributes: ["name"],
-            where: {
-              name: {[Op.iLike]: `%${search}%`},
+        (option.where = {
+          name: {[Op.iLike]: `%${search}%`},
+        }),
+          (option.include = [
+            {
+              model: User,
+              attributes: ["userName"],
             },
-          },
-        ];
+            {
+              model: Category,
+              attributes: ["name"],
+            },
+          ]);
       }
 
       const result = await Product.findAndCountAll(option);
@@ -107,9 +107,9 @@ class productController {
     try {
       const {id} = req.params;
       const {name, description, price, image} = req.body;
-      const categoryId = +req.body.categoryId;
+      const CategoryId = +req.body.CategoryId;
       const result = await Product.update(
-        {name, description, price, image, categoryId},
+        {name, description, price, image, CategoryId},
         {
           where: {
             id: +id,
